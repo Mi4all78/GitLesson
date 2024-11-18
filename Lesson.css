@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+.container {
+    width: 900px;
+    margin: 0 auto;
+}
+.team { background-color: rgb(163, 240, 214);}
+.item_img {
+    width: 65px;
+    height: 65px;
+    border: 2px solid #5fa4ee;
+    border-radius: 50%; }
